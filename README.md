@@ -1,16 +1,30 @@
-## Hi there 👋
+<p align = "center">
+	<img src = "https://komarev.com/ghpvc/?username=10kartik&style=plastic&color=blueviolet" alt = "Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-<!--
-**dovakyndev/dovakyndev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm Daniel Montoya 👋
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Developer in training, focused on best practices. Interested in frontend, cybersecurity, and systems architecture. I seek to constantly learn, build, and improve code.
+
+- 💻 I like building things that actually teach me something — I focus on improving a little more with every project.
+- 📚 Always exploring, always sharpening my skills, and always moving toward the next level.
+
+---
+## 🚀 My Technologies 
+
+### 🌱 Currently Learning
+
+<p align="center">
+ <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=javascript,html,css,angular,git,linux,aws,bash&perline=8" />
+ </a>
+</p>
+
+## 🌍 visit my website 
+
+link: 
